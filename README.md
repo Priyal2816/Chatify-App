@@ -1,6 +1,6 @@
 # Chatify-App – Real-Time Full Stack Chat Application
 
-🔗 **Live Demo:** live-link  
+🔗 **Live Demo:** https://chatify-app-eta.vercel.app  
 📂 **GitHub:** https://github.com/Priyal2816/Chatify-App
 
 ---
